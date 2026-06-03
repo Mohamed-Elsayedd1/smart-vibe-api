@@ -1,0 +1,322 @@
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\appsettings.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\appsettings.Production.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.staticwebassets.runtime.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.staticwebassets.endpoints.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.exe
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.deps.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.runtimeconfig.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.pdb
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Humanizer.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Npgsql.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.csproj.AssemblyReference.cache
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.AssemblyInfoInputs.cache
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.AssemblyInfo.cs
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.csproj.CoreCompileInputs.cache
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\scopedcss\bundle\SmartBayt.styles.css
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.csproj.Up2Date
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\refint\SmartBayt.dll
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.pdb
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.genruntimeconfig.cache
+C:\Users\11\Desktop\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\ref\SmartBayt.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\appsettings.Development.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\appsettings.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\appsettings.Production.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.staticwebassets.endpoints.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.staticwebassets.runtime.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.exe
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.deps.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.runtimeconfig.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\SmartBayt.pdb
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Azure.Core.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Azure.Identity.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Humanizer.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Npgsql.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.ClientModel.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.CodeDom.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Memory.Data.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.csproj.AssemblyReference.cache
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.GeneratedMSBuildEditorConfig.editorconfig
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.AssemblyInfoInputs.cache
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.AssemblyInfo.cs
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.csproj.CoreCompileInputs.cache
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.MvcApplicationPartsAssemblyInfo.cs
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.MvcApplicationPartsAssemblyInfo.cache
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\scopedcss\bundle\SmartBayt.styles.css
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.build.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.development.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\swae.build.ex.cache
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.csproj.Up2Date
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\refint\SmartBayt.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.pdb
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\SmartBayt.genruntimeconfig.cache
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\ref\SmartBayt.dll
+D:\ahmed selim\ملف بيت الاصلي\smartbayt-api-main\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

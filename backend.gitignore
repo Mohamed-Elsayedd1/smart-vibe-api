@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+
+# User settings
+*.user
+.vs/
+
+# Environment & secrets — لا ترفعهم أبداً
+appsettings.Production.json
+appsettings.Development.json
+
+# Uploads folder (local dev only)
+wwwroot/uploads/
+
+# dotnet
+*.suo
+*.userprefs
