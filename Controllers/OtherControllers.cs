@@ -22,7 +22,7 @@ public class CategoriesController(AppDbContext db) : ControllerBase
             .OrderBy(c => c.DisplayOrder)
             .Select(c => new CategoryResponse(
                 c.Id, c.Name, c.Slug, c.Icon, c.DisplayOrder, c.CreatedAt,
-                db.Products.Count(p => p.CategoryId == c.Id)
+                db.Products.Count(p => p.Category == c.Name)
             ))
             .ToListAsync());
 
