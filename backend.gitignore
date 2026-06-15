@@ -1,18 +1,20 @@
-# Build output
+# .NET build artifacts
 bin/
 obj/
 
-# User settings
-*.user
+# Visual Studio
 .vs/
 
-# Environment & secrets — لا ترفعهم أبداً
-appsettings.Production.json
-appsettings.Development.json
+# User-specific files
+*.user
 
-# Uploads folder (local dev only)
+# Environment / secrets
+appsettings.Development.json
+appsettings.Production.json
+.env
+
+# Uploaded files
 wwwroot/uploads/
 
-# dotnet
-*.suo
-*.userprefs
+# Logs
+*.log
