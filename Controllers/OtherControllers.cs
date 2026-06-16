@@ -485,7 +485,7 @@ public class DashboardController(AppDbContext db) : ControllerBase
 // ─── UPLOAD ──────────────────────────────────────────────────────────────────
 [ApiController]
 [Route("api/upload")]
-[Authorize(Roles = "admin")]
+[Authorize]
 public class UploadController(IConfiguration config) : ControllerBase
 {
     private const long MaxFileSize = 5 * 1024 * 1024;
