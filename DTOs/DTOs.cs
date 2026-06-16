@@ -19,7 +19,8 @@ public record AuthResponse(
     string Id,
     string Email,
     string? FullName,
-    string Role
+    string Role,
+    string? AvatarUrl
 );
 
 // ─── PRODUCT ─────────────────────────────────────────────
