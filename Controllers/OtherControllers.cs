@@ -4,11 +4,11 @@ using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SmartBayt.Data;
-using SmartBayt.DTOs;
-using SmartBayt.Models;
+using SmartVibe.Data;
+using SmartVibe.DTOs;
+using SmartVibe.Models;
 
-namespace SmartBayt.Controllers;
+namespace SmartVibe.Controllers;
 
 // ─── CATEGORIES ──────────────────────────────────────────────────────────────
 [ApiController]
@@ -518,7 +518,7 @@ public class UploadController(IConfiguration config) : ControllerBase
         var uploadResult = await cloudinary.UploadAsync(new CloudinaryDotNet.Actions.ImageUploadParams
         {
             File = new CloudinaryDotNet.FileDescription(file.FileName, stream),
-            Folder = "smartbayt"
+            Folder = "smartvibe"
         });
 
         if (uploadResult.Error is not null)

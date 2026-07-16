@@ -1,18 +1,18 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SmartBayt.Data;
-using SmartBayt.DTOs;
-using SmartBayt.Helpers;
-using SmartBayt.Models;
+using SmartVibe.Data;
+using SmartVibe.DTOs;
+using SmartVibe.Helpers;
+using SmartVibe.Models;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 
-using RegisterRequest = SmartBayt.DTOs.RegisterRequest;
-using LoginRequest = SmartBayt.DTOs.LoginRequest;
-using ForgotPasswordRequest = SmartBayt.DTOs.ForgotPasswordRequest;
-using ResetPasswordRequest = SmartBayt.DTOs.ResetPasswordRequest;
+using RegisterRequest = SmartVibe.DTOs.RegisterRequest;
+using LoginRequest = SmartVibe.DTOs.LoginRequest;
+using ForgotPasswordRequest = SmartVibe.DTOs.ForgotPasswordRequest;
+using ResetPasswordRequest = SmartVibe.DTOs.ResetPasswordRequest;
 
-namespace SmartBayt.Controllers;
+namespace SmartVibe.Controllers;
 
 [ApiController]
 [Route("api/auth")]
@@ -106,7 +106,7 @@ public class AuthController(AppDbContext db, JwtHelper jwt) : ControllerBase
         // await smtp.ConnectAsync(config["Email:Host"], 587, false);
         // await smtp.AuthenticateAsync(config["Email:User"], config["Email:Pass"]);
         // var mail = new MimeKit.MimeMessage();
-        // mail.From.Add(MimeKit.InternetAddress.Parse("noreply@smartbayt.com"));
+        // mail.From.Add(MimeKit.InternetAddress.Parse("noreply@smartvibe.com"));
         // mail.To.Add(MimeKit.InternetAddress.Parse(user.Email));
         // mail.Subject = "كود إعادة تعيين كلمة المرور";
         // mail.Body = new MimeKit.TextPart("plain") { Text = $"الكود: {code}\nصالح لمدة 15 دقيقة." };

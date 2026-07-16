@@ -2,11 +2,11 @@ using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SmartBayt.Data;
-using SmartBayt.DTOs;
-using SmartBayt.Models;
+using SmartVibe.Data;
+using SmartVibe.DTOs;
+using SmartVibe.Models;
 
-namespace SmartBayt.Controllers;
+namespace SmartVibe.Controllers;
 
 [ApiController]
 [Route("api/orders")]

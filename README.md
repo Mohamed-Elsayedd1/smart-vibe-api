@@ -1,4 +1,4 @@
-# SmartBayt API 🛒
+# SmartVibe API 🛒
 
 A robust and scalable **RESTful API** for a modern e-commerce platform, built with **ASP.NET Core (.NET 10)** and **PostgreSQL**.
 
@@ -33,7 +33,7 @@ A robust and scalable **RESTful API** for a modern e-commerce platform, built wi
 ## 📁 Project Structure
 
 ```
-SmartBayt/
+SmartVibe/
 ├── Controllers/
 │   ├── AuthController.cs        # Register, Login, Profile, Password Reset
 │   ├── ProductsController.cs    # Product CRUD
@@ -65,8 +65,8 @@ SmartBayt/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/t9amw0rk-sys/smartbayt-api.git
-cd smartbayt-api
+git clone https://github.com/t9amw0rk-sys/smartvibe-api.git
+cd smartvibe-api
 ```
 
 ### 2. Configure Environment Variables
@@ -76,12 +76,12 @@ Create an `appsettings.Development.json` file or set the following environment v
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Host=localhost;Database=smartbayt;Username=postgres;Password=yourpassword"
+    "DefaultConnection": "Host=localhost;Database=smartvibe;Username=postgres;Password=yourpassword"
   },
   "Jwt": {
     "Secret": "your-super-secret-key-min-32-chars",
-    "Issuer": "SmartBayt",
-    "Audience": "SmartBaytUsers"
+    "Issuer": "SmartVibe",
+    "Audience": "SmartVibeUsers"
   },
   "Frontend": {
     "Url": "http://localhost:5173"
@@ -92,7 +92,7 @@ Create an `appsettings.Development.json` file or set the following environment v
 Or use environment variables directly:
 
 ```bash
-export ConnectionStrings__DefaultConnection="Host=localhost;Database=smartbayt;..."
+export ConnectionStrings__DefaultConnection="Host=localhost;Database=smartvibe;..."
 export JWT_SECRET="your-super-secret-key"
 export FRONTEND_URL="http://localhost:5173"
 ```
@@ -110,11 +110,11 @@ The API will be available at `http://localhost:5000`. Migrations run automatical
 ## 🐳 Docker
 
 ```bash
-docker build -t smartbayt-api .
+docker build -t smartvibe-api .
 docker run -p 5000:5000 \
   -e ConnectionStrings__DefaultConnection="your-connection-string" \
   -e JWT_SECRET="your-secret" \
-  smartbayt-api
+  smartvibe-api
 ```
 
 ---

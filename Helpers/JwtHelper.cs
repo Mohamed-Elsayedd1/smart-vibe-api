@@ -2,9 +2,9 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
-using SmartBayt.Models;
+using SmartVibe.Models;
 
-namespace SmartBayt.Helpers;
+namespace SmartVibe.Helpers;
 
 public class JwtHelper(IConfiguration config)
 {

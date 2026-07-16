@@ -10,7 +10,7 @@
     "Secret": "ضع هنا secret قوي لا يقل عن 32 حرف"
   },
   "ConnectionStrings": {
-    "DefaultConnection": "Host=localhost;Database=smartbayt;Username=postgres;Password=..."
+    "DefaultConnection": "Host=localhost;Database=smartvibe;Username=postgres;Password=..."
   }
 }
 ```
@@ -22,7 +22,7 @@
 | اسم المتغير | القيمة |
 |---|---|
 | `JWT_SECRET` | secret قوي عشوائي (32+ حرف) |
-| `FRONTEND_URL` | رابط الـ frontend مثلاً https://smartbayt.vercel.app |
+| `FRONTEND_URL` | رابط الـ frontend مثلاً https://smartvibe.vercel.app |
 | `DATABASE_URL` | بييجي أوتوماتيك من Railway PostgreSQL |
 
 ## توليد JWT Secret قوي

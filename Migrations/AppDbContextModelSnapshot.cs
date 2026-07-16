@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
-using SmartBayt.Data;
+using SmartVibe.Data;
 
 #nullable disable
 
-namespace SmartBayt.Migrations
+namespace SmartVibe.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
@@ -22,7 +22,7 @@ namespace SmartBayt.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("SmartBayt.Models.AppUser", b =>
+            modelBuilder.Entity("SmartVibe.Models.AppUser", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -63,7 +63,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.BlogPost", b =>
+            modelBuilder.Entity("SmartVibe.Models.BlogPost", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -107,7 +107,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("BlogPosts");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Category", b =>
+            modelBuilder.Entity("SmartVibe.Models.Category", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -138,7 +138,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.ContactMessage", b =>
+            modelBuilder.Entity("SmartVibe.Models.ContactMessage", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -177,7 +177,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("ContactMessages");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Coupon", b =>
+            modelBuilder.Entity("SmartVibe.Models.Coupon", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -217,7 +217,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Coupons");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Faq", b =>
+            modelBuilder.Entity("SmartVibe.Models.Faq", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -245,7 +245,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Faqs");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Job", b =>
+            modelBuilder.Entity("SmartVibe.Models.Job", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -282,7 +282,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Jobs");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Order", b =>
+            modelBuilder.Entity("SmartVibe.Models.Order", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -330,7 +330,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Orders");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.OrderItem", b =>
+            modelBuilder.Entity("SmartVibe.Models.OrderItem", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -361,7 +361,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("OrderItems");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Product", b =>
+            modelBuilder.Entity("SmartVibe.Models.Product", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -431,7 +431,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Products");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Review", b =>
+            modelBuilder.Entity("SmartVibe.Models.Review", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -468,7 +468,7 @@ namespace SmartBayt.Migrations
                     b.ToTable("Reviews");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.SiteSetting", b =>
+            modelBuilder.Entity("SmartVibe.Models.SiteSetting", b =>
                 {
                     b.Property<string>("Key")
                         .HasColumnType("text");
@@ -485,9 +485,9 @@ namespace SmartBayt.Migrations
                     b.ToTable("SiteSettings");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Order", b =>
+            modelBuilder.Entity("SmartVibe.Models.Order", b =>
                 {
-                    b.HasOne("SmartBayt.Models.AppUser", "User")
+                    b.HasOne("SmartVibe.Models.AppUser", "User")
                         .WithMany("Orders")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.SetNull);
@@ -495,15 +495,15 @@ namespace SmartBayt.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.OrderItem", b =>
+            modelBuilder.Entity("SmartVibe.Models.OrderItem", b =>
                 {
-                    b.HasOne("SmartBayt.Models.Order", "Order")
+                    b.HasOne("SmartVibe.Models.Order", "Order")
                         .WithMany("Items")
                         .HasForeignKey("OrderId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("SmartBayt.Models.Product", "Product")
+                    b.HasOne("SmartVibe.Models.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.SetNull);
@@ -513,14 +513,14 @@ namespace SmartBayt.Migrations
                     b.Navigation("Product");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Review", b =>
+            modelBuilder.Entity("SmartVibe.Models.Review", b =>
                 {
-                    b.HasOne("SmartBayt.Models.Product", "Product")
+                    b.HasOne("SmartVibe.Models.Product", "Product")
                         .WithMany("ProductReviews")
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade);
 
-                    b.HasOne("SmartBayt.Models.AppUser", "User")
+                    b.HasOne("SmartVibe.Models.AppUser", "User")
                         .WithMany("Reviews")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.SetNull);
@@ -530,19 +530,19 @@ namespace SmartBayt.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.AppUser", b =>
+            modelBuilder.Entity("SmartVibe.Models.AppUser", b =>
                 {
                     b.Navigation("Orders");
 
                     b.Navigation("Reviews");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Order", b =>
+            modelBuilder.Entity("SmartVibe.Models.Order", b =>
                 {
                     b.Navigation("Items");
                 });
 
-            modelBuilder.Entity("SmartBayt.Models.Product", b =>
+            modelBuilder.Entity("SmartVibe.Models.Product", b =>
                 {
                     b.Navigation("ProductReviews");
                 });

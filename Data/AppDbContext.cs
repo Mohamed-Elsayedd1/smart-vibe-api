@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SmartBayt.Models;
+using SmartVibe.Models;
 
-namespace SmartBayt.Data;
+namespace SmartVibe.Data;
 
 public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {

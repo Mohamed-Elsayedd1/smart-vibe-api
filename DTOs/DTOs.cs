@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace SmartBayt.DTOs;
+namespace SmartVibe.DTOs;
 
 // ─── AUTH ────────────────────────────────────────────────
 public record RegisterRequest(
