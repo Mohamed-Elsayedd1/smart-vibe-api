@@ -2,8 +2,8 @@ using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using SmartBayt.Data;
-using SmartBayt.Helpers;
+using SmartVibe.Data;
+using SmartVibe.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -79,6 +79,7 @@ using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     db.Database.Migrate();
+    DbSeeder.Seed(db); // بيضيف منتجات وتصنيفات تجريبية لو الداتا بيز فاضية
 }
 
 // ─── Middleware ───────────────────────────────────────────
